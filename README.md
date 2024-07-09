@@ -1,2 +1,2 @@
 # devops-pilot
-DevOps Pilot is a robust desktop application designed to streamline operations and development tasks within your software environment.
+DevOps Pilot is a robust desktop application designed to streamline operations and development tasks within your software environment. It empowers teams with features like database management, file operations, Git integration, and system monitoring, all from a single, intuitive interface. Enhance productivity and efficiency with DevOps Pilot, your trusted companion for software development operations.
